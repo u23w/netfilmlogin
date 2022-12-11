@@ -1,0 +1,21 @@
+body{
+  background-color:#2e2e2e ;
+}
+
+img{
+  width: 100px;
+  border-radius: 9px;
+  display: inline-block;
+  margin: 20px 10px;
+}
+img:hover{
+  width: 110px;
+  
+}
+p{
+  text-decoration: none;
+  text-transform: uppercase;
+  font-weight: 500;
+  font-family: cursive;  color: #0088ff;
+  margin: 50px 0px;
+}
